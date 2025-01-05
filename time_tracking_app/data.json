@@ -2,8 +2,9 @@
     {
         "title": "Mow the lawn",
         "project": "House Chores",
-        "elapsed": 5456099,
-        "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7"
+        "elapsed": 5481583,
+        "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7",
+        "runningSince": null
     },
     {
         "title": "Clear paper jam",
@@ -13,10 +14,10 @@
         "runningSince": null
     },
     {
-        "title": "Ponder origins of universe",
-        "project": "Life Chores",
-        "id": "2c43306e-5b44-4ff8-8753-33c35adbd06f",
-        "elapsed": 278923094277,
+        "title": "watchin Monk",
+        "project": "Television",
+        "id": "89a7f4dc-43c0-4a8c-a92e-4638547475fd",
+        "elapsed": 7283,
         "runningSince": null
     }
 ]
